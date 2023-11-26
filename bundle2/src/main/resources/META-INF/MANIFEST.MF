@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: bundle2Primero
+Bundle-SymbolicName: com.miempresados.bundle2
+Bundle-Version: 1.0.0
+Bundle-ActivationPolicy: lazy
+Bundle-Activator: com.miempresados.Activator
+Import-Package: com.miempresados
