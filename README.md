@@ -1,6 +1,6 @@
 # Karaf
 Implementacion de  Apache Karaf y un 2 bundles funcionales con bajo acoplamiento pero inter-relacionados
-Compilar los bundles:
+# Compilar los bundles:
 -mvn clean install
-Instalar los bundles en karaf:
+# Instalar los bundles en karaf:
 bundle:install wrap:file:///<RUTA DEL JAR DEL BUNDLE>
